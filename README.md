@@ -107,6 +107,8 @@ This page drills down into audience engagement by weekday and analyzes how media
 
 ![Engagement   Media Analysis](https://github.com/user-attachments/assets/dde663a4-1a1f-4af2-ae0f-e42b9e8e6b05)
 
+### Twitter Analytics Dashboard Live Interaction 
+- <a href="https://github.com/suriya2318/Twitter-Analytics-Dashboard-/blob/main/Twitter%20Analytics%20Dashboard.mp4"> View Live Dashboard Interaction </a>
 ## Project Insights
 • Tweets posted on Thursday and Tuesday generated the most engagement.
 
